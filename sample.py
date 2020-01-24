@@ -1,5 +1,6 @@
 x=10
 y=20
+w=30
 
-return x+y
+return w+x+y
 
